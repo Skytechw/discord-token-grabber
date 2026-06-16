@@ -1,5 +1,6 @@
 # Discord token grabber
 
+> [!CAUTION]
 > **PLEASE read this before forking:** your Discord webhook URL will become public if you commit it to the repository. Revise the code and remove any embedded webhook URLs or tokens before pushing (I thought this doesn't need explaining, but take a look at the forks).
 
 Extracts Discord tokens from Google Chrome's local storage and sends them to a Discord webhook.
